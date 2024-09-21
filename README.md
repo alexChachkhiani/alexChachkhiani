@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A Front-End developer from Georgia 🇬🇪</h3>
 
-- 🔭 I’m currently working on [NewDaw Website](https://github.com/alexChachkhiani/daw-website)
+- 🔭 I’m currently working on [Abstract Website](https://github.com/alexChachkhiani/abstract-website)
 
 - 🌱 I’m currently learning **more about React, as well as Python.**
 
